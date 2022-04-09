@@ -10,4 +10,4 @@ Chitkara Design Experience Centre is a place for students, parents and teachers 
 
 &nbsp;
 
-(.1.png)
+![1](.1.png)
