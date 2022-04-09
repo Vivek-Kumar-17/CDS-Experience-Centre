@@ -4,6 +4,6 @@ Chitkara Design Experience Centre is a place for students, parents and teachers 
 
 &nbsp;
 
-##Design Statement
+## Design Statement
 
 “Creating a physical space which will provide a real time experience of Chitkara Design School.”
